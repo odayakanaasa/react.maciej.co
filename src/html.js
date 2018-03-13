@@ -43,13 +43,13 @@ class Html extends Component {
           <meta property="og:type" content="article" />
           <meta property="og:title" content="Maciej Zadykowicz, Designer" />
           <meta property="og:description" content="I design and build digital products, brands and experiences." />
-          <meta property="og:url" content="//maciej.co" />
-          <meta property="og:image" content='http://maciej.co/ogimage.4fd8a208.jpg' />
+          <meta property="og:url" content="//serene-archimedes-76d120.netlify.com" />
+          <meta property="og:image" content='http://serene-archimedes-76d120.netlify.com/ogimage.4fd8a208.jpg' />
           <meta name="twitter:card" content="summary_large_image" />
           <meta name="twitter:site" content="@spaceape" />
           <meta name="twitter:title" content="Maciej Zadykowicz, Designer" />
           <meta name="twitter:description" content="I design and build digital products, brands and experiences." />
-          <meta name="twitter:image" content='http://maciej.co/ogimage.4fd8a208.jpg' />
+          <meta name="twitter:image" content='http://serene-archimedes-76d120.netlify.com/ogimage.4fd8a208.jpg' />
           <meta name="theme-color" content="#141414" />
           <link rel="shortcut icon" href={favicon} />
           <link rel="apple-touch-icon-precomposed" href={touchImage} />
