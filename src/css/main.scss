@@ -1,14 +1,13 @@
-@import
-'variables',
-'base',
-'replica-regular',
-'replica-bold',
-'replica-mono',
-'typography',
-'navigation',
-'hero',
-'cards',
-'credits',
-'case',
-'media',
-'dark';
+@import "variables.scss";
+@import "base.scss";
+@import "replica-regular.scss";
+@import "replica-bold.scss";
+@import "replica-mono.scss";
+@import "typography.scss";
+@import "navigation.scss";
+@import "hero.scss";
+@import "cards.scss";
+@import "credits.scss";
+@import "case.scss";
+@import "media.scss";
+@import "dark.scss";
